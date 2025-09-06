@@ -63,9 +63,9 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
 ## 🔥 Programmer Activity
 
 <p align="center">
-  <img src="https://img.io/badge/Always%20Coding-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=CD0074"/>
-  <img src="https://img.io/badge/Weekly%20Commits-CD0074?style=for-the-badge&logo=git&logoColor=00BFFF"/>
-  <img src="https://img.io/badge/Open%20Source%20Active-FFFF00?style=for-the-badge&logo=github&logoColor=CD0074"/>
+  <img src="https://img.shields.io/badge/Always%20Coding-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=CD0074"/>
+  <img src="https://img.shields.io/badge/Weekly%20Commits-CD0074?style=for-the-badge&logo=git&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Active-FFFF00?style=for-the-badge&logo=github&logoColor=CD0074"/>
 </p>
 
 <p align="center">
@@ -85,15 +85,15 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
 ## 🛸 Tech Arsenal
 
 <p align="center">
-  <img src="https://img.io/badge/-JavaScript-00BFFF?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
-  <img src="https://img.io/badge/-TypeScript-CD0074?style=for-the-badge&logo=typescript&logoColor=FFFF00"/>
-  <img src="https://img.io/badge/-Python-FFFF00?style=for-the-badge&logo=python&logoColor=00BFFF"/>
-  <img src="https://img.io/badge/-Go-00BFFF?style=for-the-badge&logo=go&logoColor=FFFF00"/>
-  <img src="https://img.io/badge/-React-CD0074?style=for-the-badge&logo=react&logoColor=FFFF00"/>
-  <img src="https://img.io/badge/-Next.js-FFFF00?style=for-the-badge&logo=next.js&logoColor=00BFFF"/>
-  <img src="https://img.io/badge/-Node.js-00BFFF?style=for-the-badge&logo=node.js&logoColor=CD0074"/>
-  <img src="https://img.io/badge/-Docker-CD0074?style=for-the-badge&logo=docker&logoColor=FFFF00"/>
-  <img src="https://img.io/badge/-GitHub%20Actions-FFFF00?style=for-the-badge&logo=github-actions&logoColor=CD0074"/>
+  <img src="https://img.shields.io/badge/-JavaScript-00BFFF?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
+  <img src="https://img.shields.io/badge/-TypeScript-CD0074?style=for-the-badge&logo=typescript&logoColor=FFFF00"/>
+  <img src="https://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=python&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/-Go-00BFFF?style=for-the-badge&logo=go&logoColor=FFFF00"/>
+  <img src="https://img.shields.io/badge/-React-CD0074?style=for-the-badge&logo=react&logoColor=FFFF00"/>
+  <img src="https://img.shields.io/badge/-Next.js-FFFF00?style=for-the-badge&logo=next.js&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/-Node.js-00BFFF?style=for-the-badge&logo=node.js&logoColor=CD0074"/>
+  <img src="https://img.shields.io/badge/-Docker-CD0074?style=for-the-badge&logo=docker&logoColor=FFFF00"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-FFFF00?style=for-the-badge&logo=github-actions&logoColor=CD0074"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
 </div>
 
 <div align="center">
-  <img src="https://img.io/github/stars/e1michi?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=00BFFF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/e1michi?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=00BFFF&style=for-the-badge"/>
 </div>
 
 <p align="center">
