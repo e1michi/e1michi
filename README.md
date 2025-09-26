@@ -91,12 +91,12 @@
 ## 📊 My GitHub in Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=e1michi&show_icons=true&theme=dracula&hide_border=true&title_color=00FF7F&icon_color=FFC0CB&text_color=BA55D3&border_color=FFC0CB" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e1michi&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=BA55D3&icon_color=00FF7F&text_color=FFC0CB&border_color=BA55D3" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=e1michi&show_icons=true&theme=dracula&hide_border=true&title_color=d94dff&icon_color=fff500&text_color=1a53ff&border_color=ff571a&cache_seconds=1110" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e1michi&layout=compact&theme=dracula&hide_border=true&title_color=00cc99&icon_color=d94dff&text_color=fff500&border_color=1a53ff&cache_seconds=1800" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=e1michi&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=e1michi&theme=dracula&hide_border=true&cache_seconds=1800" height="165"/>
 </div>
 
 <div align="center">
